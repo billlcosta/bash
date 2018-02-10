@@ -1,0 +1,4 @@
+                                            Bash Shell Scripts
+                                     ---------------------------------
+                                     
+* bkp_mysql.sh - Script for create backup full from MySQL with mysqldump                                     
