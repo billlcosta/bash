@@ -3,3 +3,4 @@
                                      
 * bkp_mysql.sh - Script for create backup full from MySQL with mysqldump;
 * firweall-iptables.sh - Firewall State Full with iptables using Closed Policy;
+* samba4 - Script to deploy Samba 4 (Red Hat/Debian Like) to Domain Controller;
