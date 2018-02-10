@@ -1,4 +1,5 @@
                                             Bash Shell Scripts
                                      ---------------------------------
                                      
-* bkp_mysql.sh - Script for create backup full from MySQL with mysqldump                                     
+* bkp_mysql.sh - Script for create backup full from MySQL with mysqldump;
+* firweall-iptables.sh - Firewall State Full with iptables using Closed Policy;
